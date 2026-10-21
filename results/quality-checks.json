@@ -1,0 +1,9 @@
+{
+  "records": 120,
+  "missing_cells": 0,
+  "duplicate_ids": 0,
+  "valid_channels": true,
+  "valid_age_groups": true,
+  "valid_scores": true,
+  "positive_response_times": true
+}
